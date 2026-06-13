@@ -28,9 +28,6 @@ SmartGen is built on the principle of **100% Client-Side Processing**. Unlike tr
 
 ### Official Links
 
-*   **Official Website:** [www.smartgentools.com](https://www.smartgentools.com)
-*   **Creator's Website:** [www.sayadbayezid.com](https://www.sayadbayezid.com)
-*   **Agency - Connect with Bayezid:** [https://connectbayezid-8dcdz46v.manus.space/](https://connectbayezid-8dcdz46v.manus.space/)
-*   **GitHub Repository:** [https://github.com/bayzed123/SmartGenQR.oi](https://github.com/bayzed123/SmartGenQR.oi)
-
+*   **Official Website:** [smartgentools](https://www.smartgentools.com)
 ---
+Read Must [Next](Architecture & Tech Stack)
