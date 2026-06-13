@@ -1,10 +1,13 @@
-site_name: DocsLab
+site_name: SmartGen Documentation
 site_description: Central Documentation Hub for Connect With Bayezid
 site_author: Sayad Md Bayezid Hosan
 site_url: https://bayzed123.github.io/docslab/
 
+copyright: "Copyright &copy; 2026 Connect With Bayezid. All rights reserved."
+
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo
@@ -30,7 +33,6 @@ plugins:
   - social:
       cards_layout_dir: layouts
       cards_layout: custom
-
 
 markdown_extensions:
   - pymdownx.highlight:
