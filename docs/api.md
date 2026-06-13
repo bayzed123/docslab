@@ -96,5 +96,6 @@ Example:
 When breaking changes are introduced, a new API version is released to maintain backward compatibility for existing integrations.
 ---
 # you build just copy past code your Doclab [readme.md](https://github.com/bayzed123/docslab/blob/main/docs/docalab%20typescript.md)
+#[Examples of docslab in Docusaurus](https://github.com/bayzed123/docslab/blob/da4e81c0f0ebdf701dc12c09df14441f1de5938f/docs/doclab-build.md)
 ## Additional Resources
 For deployment instructions, configuration details, and architecture documentation, refer to the corresponding documentation sections available within this project.
