@@ -95,5 +95,6 @@ Example:
 ```
 When breaking changes are introduced, a new API version is released to maintain backward compatibility for existing integrations.
 ---
+# you build just copy past code your Doclab [readme.md](https://github.com/bayzed123/docslab/blob/main/docs/doclab-build.md)
 ## Additional Resources
 For deployment instructions, configuration details, and architecture documentation, refer to the corresponding documentation sections available within this project.
