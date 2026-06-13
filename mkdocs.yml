@@ -26,6 +26,11 @@ theme:
 
 plugins:
   - search
+  - meta
+  - social:
+      cards_layout_dir: layouts
+      cards_layout: custom
+
 
 markdown_extensions:
   - pymdownx.highlight:
