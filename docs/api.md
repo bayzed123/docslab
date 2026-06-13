@@ -95,6 +95,6 @@ Example:
 ```
 When breaking changes are introduced, a new API version is released to maintain backward compatibility for existing integrations.
 ---
-# you build just copy past code your Doclab [readme.md](docalab typescript.md)
+# you build just copy past code your Doclab [readme.md](https://github.com/bayzed123/docslab/blob/main/docs/docalab%20typescript.md)
 ## Additional Resources
 For deployment instructions, configuration details, and architecture documentation, refer to the corresponding documentation sections available within this project.
